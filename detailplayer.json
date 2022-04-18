@@ -1,0 +1,26 @@
+ {
+    "0":[
+        {
+        "id":"1",
+        "name":"Virat Kohli",
+        "preview":"https://assets.iplt20.com/ipl/IPLHeadshot2022/164.png",
+        "from":"RCB",
+        "isPlaying":true,
+        "playingStatus":"Playing Status : Playing",
+        "price":"14 Cr",
+        "description":"Batter"
+    }
+    ],
+    "1":[
+        {
+        "id":"1",
+        "name":"MS Dhoni",
+        "preview":"https://assets.iplt20.com/ipl/IPLHeadshot2022/1.png",
+        "from":"RCB",
+        "isPlaying":true,
+        "playingStatus":"Playing Status : Playing",
+        "price":"14 Cr",
+        "description":"Batter"
+    }
+    ]
+  }
